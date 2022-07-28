@@ -1,2 +1,2 @@
 # image-logger-
-run the main.py or main.exe its real man
+run the or image logger.exe its real man
