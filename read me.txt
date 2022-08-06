@@ -1,0 +1,3 @@
+change webhook here to your webhook
+and what msg you want to say
+image loggers are fake
